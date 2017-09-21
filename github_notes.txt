@@ -3,3 +3,19 @@ Github notes
 *new idea
 *second new idea
 *new line here
+
+make new repository
+sync
+feature branch
+saving & commit
+publish [push changes]
+pull request
+merge pull request
+
+[fork]
+
+
+Add old code:
+-!
+
+HERE IS A NEW LINE IN THE BRANCH
